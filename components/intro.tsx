@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="/saad.png"
+              src="/saad.jpg"
               alt="Saad's portrait"
               width="192"
               height="192"

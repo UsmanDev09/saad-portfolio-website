@@ -55,18 +55,22 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "Quantas",
+    title: "Quantus",
+    overview:"Welcome to our EHR Web App, dedicated to revolutionizing healthcare experiences in Texas, USA. Our platform is designed to streamline Electronic Health Records (EHR) management, providing a secure and efficient way for healthcare professionals to organize, access, and share patient information. With user-friendly interfaces and advanced features, our EHR solution aims to enhance the overall efficiency of healthcare delivery.",
     description:
       "This platform streamlines EHR management, with user-friendly interfaces and advanced features for healthcare delivery.",
     tags: ["Figma", "Heuristic", "UX", "User Expreience", "UI", "User Interface"],
     imageUrl: spacemoonImg,
+    type: 1
   },
   {
     title: "Bank App",
+    overview:"Welcome to the Money Solution Bank App, committed to transforming banking experiences globally. Our platform is crafted to simplify finance management, offering a secure and effective solution for users to organize, access, and share their finances. With intuitive interfaces and cutting-edge features, our banking app is designed to elevate the overall efficiency of financial management.",
     description:
       "This banking app is designed to elevate the overall efficiency of financial management. ",
     tags: ["App design", "UI", "user Interface", "UX", "User Experience", "Figma"],
     imageUrl: bankAppImg,
+    type:2
   },
 ] as const;
 

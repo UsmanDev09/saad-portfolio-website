@@ -29,7 +29,19 @@ export default function Contact() {
         once: true,
       }}
     >
-      <SectionHeading>LET'S WO🚀K T_G_TH_R</SectionHeading>
+      <SectionHeading > 
+        <div className="flex justify-center">
+          <p className="text-3xl font-medium capitalize mb-8 text-center tracking-widest">
+            LET'S         
+          </p>
+          <p className="ml-4 text-3xl font-medium capitalize mb-8 text-center tracking-widest">
+            WO🚀K
+          </p> 
+          <p className="ml-4 text-3xl font-medium capitalize mb-8 text-center tracking-widest">
+            TOGETHER         
+          </p>
+        </div>
+      </SectionHeading>
 
       <p className="text-gray-700 -mt-6 dark:text-white/80">
         Please contact me directly at{" "}

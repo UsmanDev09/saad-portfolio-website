@@ -1,5 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  experimental: {
+    serverActions: {
+      allowedOrigins: ['*'],
+    },
+  },
   images: {
     remotePatterns: [
       {
@@ -8,9 +13,7 @@ const nextConfig = {
       },
     ],
   },
-  experimental: {
-    serverActions: true,
-  },
+
 };
 
 module.exports = nextConfig;

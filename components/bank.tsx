@@ -56,44 +56,44 @@ export default function Bank({
             <br></br><h1 className="text-xl text-[#FF5959]">Overview</h1>
            <p>Welcome to the Money Solution Bank App, committed to transforming banking experiences globally. Our platform is crafted to simplify finance management, offering a secure and effective solution for users to organize, access, and share their finances. With intuitive interfaces and cutting-edge features, our banking app is designed to elevate the overall efficiency of financial management.</p>
            <br></br>
-           <p>______________________________________________________________________________________________________</p>
+           <p>________________________________________________________________________________________________</p>
            <br></br>
            <h1 className="text-xl text-[#FF5959]">Problem</h1>
            <p>The main hurdle was to create a user-friendly and appealing interface, yet a more crucial problem emerged—vital information was consistently being left out. In the realm of finance, it's of utmost importance to guarantee accessibility to all essential details, as neglecting such critical information could potentially pose a risk to an individual's financial well-being.</p>
             <br></br>
-           <p>______________________________________________________________________________________________________</p>
+           <p>________________________________________________________________________________________________</p>
            <br></br>
            <h1 className="text-xl text-[#FF5959]">Solution</h1>
            <p>To address this challenge, we implemented a comprehensive solution by conducting a thorough review of our user interface. Recognizing the critical nature of the financial information at stake, we initiated a redesign process focused on ensuring that every essential detail is prominently featured and easily accessible within the app. Through meticulous iterations and enhancements, we enhanced the visibility of crucial data, including implementing strategic placements, intuitive labeling, and additional prompts to guide users effectively. This solution not only rectifies the initial issue of overlooking vital information but also significantly improves the overall user experience, reinforcing our commitment to providing a secure and efficient financial management platform.</p>
             <br></br>
-            <p>______________________________________________________________________________________________________</p>
+            <p>________________________________________________________________________________________________</p>
             <br></br>
             <h1 className="text-xl text-[#FF5959]">Process</h1>  
             <p>The design process initiated with collaborative discussions to outline and fine-tune requirements, involving consultations with the users. Following these conversations, I engaged in brainstorming sessions to devise design solutions for the overhaul of the mobile app. Subsequently, a series of iterative steps were undertaken, ensuring a meticulous creation and refinement of the designs.</p><br></br>
             <img src = "Design Process Bank.png"></img>
             <br></br>
-            <p>______________________________________________________________________________________________________</p>
+            <p>________________________________________________________________________________________________</p>
             <br></br>
             <h1 className="text-xl text-[#FF5959]">Ideation</h1>
             <p>Embarking on the design journey within the Finance sector presented a distinctive challenge. To address this, I initiated the process by visualizing the aesthetic aspects and sketching preliminary ideas on paper to explore diverse concepts. My mood board became a canvas of inspiration, integrating elements from existing products in the field to shape and refine the design process.</p><br></br>
             <img src="Ideation.png"></img>
             <br></br>
-            <p>______________________________________________________________________________________________________</p>
+            <p>________________________________________________________________________________________________</p>
             <br></br>
             <h1 className="text-xl text-[#FF5959]">Design and High-Fidelity Mockups</h1>
             <p>To elevate the user experience, I strategically incorporated the brand's color scheme, with a special emphasis on call-to-action elements. Recognizing the pivotal role of transactional history, I prioritized the clarity of this feature. In addressing the heuristic analysis's guideline of "Visibility of System Status", I ensured that users receive immediate and transparent information about their recent transactions, meeting their expectations seamlessly.</p><br></br>
-            <p>______________________________________________________________________________________________________</p>
+            <p>________________________________________________________________________________________________</p>
             <h1 className="text-2xl text-[#FF5959]">Final Mockups</h1>
             <br></br>
             <h1 className="text-xl text-[#FF5959]">Screens</h1>
             <img src="Screens1.png"></img><br></br>
             <img src = "Screens2.png"></img><br></br>
-            <p>______________________________________________________________________________________________________</p>
+            <p>________________________________________________________________________________________________</p>
             <br></br>
             <h1 className="text-xl text-[#FF5959]">Style Guide</h1>
             <img src="Style Guide Bank.png"></img>
             <br></br>
-            <p>______________________________________________________________________________________________________</p>
+            <p>________________________________________________________________________________________________</p>
             <br></br>
             <h1 className="text-xl text-[#FF5959]">Key Takeaways</h1>
             <p>My work on Money Solution Bank App was a rewarding experience that provided me with valuable insights and skills that I can apply to future projects. While there were some challenges, that helped me grow as a designer and allowed me to develop new strategies for communicating my designs.</p>

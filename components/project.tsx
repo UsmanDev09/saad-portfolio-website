@@ -55,38 +55,38 @@ export default function Project({
               <br></br><h1 className="text-xl text-[#86C5FF]">Overview</h1>
             <p>Welcome to our EHR Web App, dedicated to revolutionizing healthcare experiences in Texas, USA. Our platform is designed to streamline Electronic Health Records (EHR) management, providing a secure and efficient way for healthcare professionals to organize, access, and share patient information. With user-friendly interfaces and advanced features, our EHR solution aims to enhance the overall efficiency of healthcare delivery. </p>
             <br></br>
-            <p>______________________________________________________________________________________________________</p>
+            <p>________________________________________________________________________________________________</p>
             <br></br>
             <h1 className="text-xl text-[#86C5FF]">Problem</h1>
             <p>
               The primary challenge revolved around disorganization, but a more critical issue surfaced—essential information was consistently omitted. In the context of the medical sector, ensuring all important details are accessible is paramount, considering that overlooking such vital information could potentially jeopardize a person's life.</p>
               <br></br>
-              <p>______________________________________________________________________________________________________</p>
+              <p>________________________________________________________________________________________________</p>
             <br></br>
             <h1 className="text-xl text-[#86C5FF]">Solution</h1>
             <p>
               The initial screens were disorganized and utilized basic templates, overlooking crucial information required by doctors, such as ICD codes. The redesigned screens, seen after the improvements, maintain a consistent color scheme while strategically organizing data. Recognizing the significance of ICD codes for healthcare professionals, a dedicated section has been incorporated, not only improving the overall interface aesthetics but also elevating the user experience.</p>
               <br></br>
-              <p>______________________________________________________________________________________________________</p>
+              <p>________________________________________________________________________________________________</p>
               <br></br>
               <h1 className="text-xl text-[#86C5FF]">Process</h1>  
               <p>The design process initiated with collaborative discussions to outline and fine-tune requirements, involving consultations with the CEO. Following these conversations, I engaged in brainstorming sessions to devise design solutions for the overhaul of the web app. Subsequently, a series of iterative steps were undertaken, ensuring a meticulous creation and refinement of the designs.</p><br></br>
               <img src = "Design Process.png"></img>
               <br></br>
-              <p>______________________________________________________________________________________________________</p>
+              <p>________________________________________________________________________________________________</p>
               <br></br>
               <h1 className="text-xl text-[#86C5FF]">Ideation</h1>
               <p>Venturing into medical sector design posed a unique challenge, as even a minor error could potentially misguide medical professionals. To tackle this, I began by conceptualizing the visual appearance, translating my thoughts onto paper to explore various ideas. My mood board drew inspiration from existing products in the field, incorporating diverse influences to refine the design process.</p><br></br>
               <img src="Ideation Frame.png"></img>
               <br></br>
-              <p>______________________________________________________________________________________________________</p>
+              <p>________________________________________________________________________________________________</p>
               <br></br>
               <h1 className="text-xl text-[#86C5FF]">Design Revamp and High-Fidelity Mockups</h1>
               <p>To enhance the user experience for medical professionals, I strategically implemented the brand's color scheme, particularly focusing on call-to-action elements. This not only aids in the recognition of functions but also ensures easy navigation, aligning with the usability heuristic of "Recognition Rather than Recall." To optimize user understanding, I incorporated iconography alongside button labels.
                 <br></br><br></br>Moreover, I applied color psychology principles, combining pastel colors with a solid blue brand color. This choice aims to evoke feelings of approachability and calmness, creating a visually pleasing atmosphere. Additionally, bright gradients were introduced as accent colors on certain cards, introducing a playful element to the design.
                 <br></br><br></br>In summary, by integrating pastel and bright tones while adhering to usability heuristics, this design approach promotes an accessible and user-friendly environment for medical professionals. Some of the main screens are displayed below.</p>
                 <br></br>
-                <p>______________________________________________________________________________________________________</p>
+                <p>________________________________________________________________________________________________</p>
               <h1 className="text-2xl text-[#86C5FF]">Final Mockups</h1>
               <br></br>
               <h1 className="text-xl text-[#86C5FF]">Login Page</h1>
@@ -98,16 +98,16 @@ export default function Project({
               <h1 className="text-xl text-[#86C5FF]">Medication</h1>
               <img src="Medication Frame.png"></img>
               <br></br>
-              <p>______________________________________________________________________________________________________</p>
+              <p>________________________________________________________________________________________________</p>
               <br></br>
               <h1 className="text-xl text-[#86C5FF]">Style Guide</h1>
               <img src="Style Guide.png"></img>
               <br></br>
-              <p>______________________________________________________________________________________________________</p>
+              <p>________________________________________________________________________________________________</p>
               <br></br>
               <h1 className="text-xl text-[#86C5FF]">Key Takeaways</h1>
               <p>My work at Quantus was a rewarding experience that provided me with valuable insights and skills that I can apply to future projects. While there were some challenges, that helped me grow as a designer and allowed me to develop new strategies for communicating my designs.</p>
-              <p>______________________________________________________________________________________________________</p>
+              <p>________________________________________________________________________________________________</p>
               <br></br>
               <h1 className="text-xl text-[#86C5FF]">Web App</h1>
               <Link className="underline" href="https://clinidrive.quantushealthinc.com:8443/pcaresp/login.jsf#"> View App</Link>

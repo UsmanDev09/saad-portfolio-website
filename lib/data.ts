@@ -34,21 +34,29 @@ export const links = [
 ] as const;
 
 export const experiencesData = [
+    {
+    title: "UI/UX Designer",
+    location: "Remote",
+    description:
+      "Money Soultion Bank App is an app designed to create a user-friendly and appealing interface.",
+    icon: React.createElement(CgWorkAlt),
+    date: "October 2023 - November 2023",
+  },
   {
     title: "UI/UX Designer",
     location: "Texas, Austin (Remote)",
     description:
       "At Quantus INC, my career as a UI/UX designer allowed me to witness first-hand tranformative power of design.",
     icon: React.createElement(LuGraduationCap),
-    date: "2022",
+    date: "October 2022 - present",
   },
-  {
-    title: "UI/UX Designer",
-    location: "Remote",
+   {
+    title: "Web Developer",
+    location: "Lahore",
     description:
-      "Money Soultion Bank App is an app designed to create a user-friendly and appealing interface.",
+      "At DESOL INT, i worked as a Remote Front End Web Developer. I delved into HTML, CSS, and JavaScript, crafting intriguing clone website projects during this period.",
     icon: React.createElement(CgWorkAlt),
-    date: "2023 - present",
+    date: "July 2020 - August 2020",
   },
   
 ] as const;

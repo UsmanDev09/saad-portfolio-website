@@ -32,13 +32,7 @@ export default function Contact() {
       <SectionHeading > 
         <div className="flex justify-center">
           <p className="text-3xl font-medium capitalize mb-8 text-center tracking-widest">
-            LET'S         
-          </p>
-          <p className="ml-4 text-3xl font-medium capitalize mb-8 text-center tracking-widest">
-            WO🚀K
-          </p> 
-          <p className="ml-4 text-3xl font-medium capitalize mb-8 text-center tracking-widest">
-            TOGETHER         
+            LET'S WO🚀K TOGETHER    
           </p>
         </div>
       </SectionHeading>

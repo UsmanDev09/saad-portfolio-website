@@ -28,7 +28,7 @@ export default function About() {
         exhilarting process of crafting innovative and user-friendly designs enriched with a myriad of features. My core skills
         are{" "}
         <span className="font-medium">
-          Figma, User Experience, and User Interface
+          Figma, User Experience, and User Interface.
         </span>
       </p>
 
